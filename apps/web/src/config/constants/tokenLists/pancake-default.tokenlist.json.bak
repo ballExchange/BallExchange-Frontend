@@ -1,0 +1,46 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2022-01-26T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://ball.exchange/img/ball_icon_ex.png",
+  "keywords": ["ball", "default"],
+  "tokens": [
+    {
+      "name": "Ball Exchange",
+      "symbol": "BALL",
+      "address": "0x51dD9d730480BA408B72eF2304b0C64b1E5B553d",
+      "chainId": 719,
+      "decimals": 18,
+      "logoURI": "https://ball.exchange/img/ball_icon_ex.png"
+    },
+    {
+      "name": "Wrapped BONE",
+      "symbol": "WBONE",
+      "address": "0xD9C8177418b6eC0AaB20361932927c7312D66993",
+      "chainId": 719,
+      "decimals": 18,
+      "logoURI": "https://ball.exchange/img/bone_icon_ex.png"
+    },
+    {
+      "name": "USDT Token",
+      "symbol": "USDT",
+      "address": "0x2EF19734bFeC87169c7a607a48cf8fF03E89fD01",
+      "chainId": 719,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/symbol/usdt.png"
+    },
+    {
+      "name": "USDC Token",
+      "symbol": "USDC",
+      "address": "0xd9B556b212EEB5f5b9E3bcc95daD8709823Cf951",
+      "chainId": 719,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/symbol/usdc.png"
+    }
+  ]
+}

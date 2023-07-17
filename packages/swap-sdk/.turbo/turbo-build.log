@@ -1,0 +1,14 @@
+$ tsup src/index.ts --format esm,cjs --dts
+[34mCLI[39m Building entry: src/index.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v6.6.3
+[34mCLI[39m Target: es2018
+[34mESM[39m Build start
+[34mCJS[39m Build start
+[32mCJS[39m [1mdist\index.js [22m[32m34.10 KB[39m
+[32mCJS[39m ⚡️ Build success in 176ms
+[32mESM[39m [1mdist\index.mjs [22m[32m28.76 KB[39m
+[32mESM[39m ⚡️ Build success in 177ms
+[34mDTS[39m Build start
+[32mDTS[39m ⚡️ Build success in 4499ms
+[32mDTS[39m [1mdist\index.d.ts [22m[32m12.76 KB[39m
